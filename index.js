@@ -9,7 +9,6 @@ function fizzbuzz(n) {
     console.log(n);
   }
 }
-
 for (let i = 1; i <= 100; i++) {
   fizzbuzz(i);
-}
+}     
